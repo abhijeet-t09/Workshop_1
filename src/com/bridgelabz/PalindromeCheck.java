@@ -10,7 +10,7 @@ public class PalindromeCheck {
 
         int originalNum=num;
         int revNum=0;
-        int rem;
+        int rem=0;
 
         while (num != 0) {
             rem = num % 10;
