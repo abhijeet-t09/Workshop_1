@@ -25,5 +25,4 @@ public class PalindromeCheck {
             System.out.println(originalNum + " is not Palindrome.");
         }
     }
-
 }
